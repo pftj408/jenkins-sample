@@ -31,4 +31,10 @@
    </plugins>
   </build>
   
+  <properties>
+    <sonar.projectKey>pftj408-sample</sonar.projectKey>
+    <sonar.organization>pftj408</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+  
 </project>
